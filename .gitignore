@@ -1,0 +1,11 @@
+# Python
+.venv/
+.idea/
+
+#allure
+*/allure-results
+allure-results/
+
+#pucache
+*/__pycache__/
+/*.pyc
